@@ -18,8 +18,8 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EricSouzadosSantos&show_icons=true)
 
 ## Gráfico de Contribuição
-![Gráfico de Contribuição](https://img.shields.io/github/commit-activity/w/EricSouzaDosSantos/seu-repositorio?color=green)
 ![Gráfico de Commits](https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos)
+
 
 
 ## Redes Sociais e Contato
