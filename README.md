@@ -20,6 +20,8 @@
 ## Gráfico de Contribuição
 ![Gráfico de Commits](https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos)
 
+##Commits
+ ![Snake animation](https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Redes Sociais e Contato
