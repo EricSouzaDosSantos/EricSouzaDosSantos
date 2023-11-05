@@ -1,8 +1,6 @@
-
-##
+# 👋 Olá, eu sou Eric Souza dos Santos.
 
 ## Sobre mim
-- 👋 Olá, eu sou Eric Souza dos Santos.
 - 👨‍💻 Estudo programação desde janeiro de 2023.
 - 🐍 Comecei com Python, mas atualmente meu foco está no desenvolvimento Android com Java e Kotlin.
 - 📚 Estou cursando ensino técnico em Desenvolvimento de Sistemas na [Proz Educação](https://www.prozeducacao.com.br/).
@@ -16,12 +14,17 @@
   <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+## Estatísticas no GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EricSouzadosSantos&show_icons=true)
+
+## Gráfico de Contribuição
+![Gráfico de Contribuição](https://img.shields.io/github/commit-activity/w/EricSouzaDosSantos/seu-repositorio?color=green)
+![Gráfico de Commits](https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos)
+
 
 ## Redes Sociais e Contato
 <div>
-  <a href="https://www.linkedin.com/in/
-Eric-Souza-dos-Santos
-" target="_blank">
+  <a href="https://www.linkedin.com/in/Eric-Souza-dos-Santos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:seuemail@gmail.com" target="_blank">
