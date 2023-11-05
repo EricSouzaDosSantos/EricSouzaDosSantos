@@ -15,21 +15,25 @@
 </div>
 
 ## Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EricSouzadosSantos&show_icons=true)
+<br>
+<div align="center" display="inline-block">
+  <a href="https://github.com/mariakarolinesvg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricSouzaDosSantos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricSouzaDosSantos&layout=compact&langs_count=7&theme=react" />
+
+</div>
+<br>
+
 
 ## Gráfico de Contribuição
 ![Gráfico de Commits](https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos)
-
-##Commits
- ![Snake animation](https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/blob/output/github-contribution-grid-snake.svg)
-
 
 ## Redes Sociais e Contato
 <div>
   <a href="https://www.linkedin.com/in/Eric-Souza-dos-Santos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:ericsouzadossantos28@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
