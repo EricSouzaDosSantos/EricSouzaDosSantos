@@ -11,7 +11,8 @@
 - 🚀 Estou sempre buscando aprender e me desafiar em novos projetos e tecnologias.
 - 🤝 Estou aberto a colaborações e adoro fazer parte de comunidades de desenvolvedores.
 - 📚 Atualmente estou cursando ensino técnico em Desenvolvimento de Sistemas na <a href="https://prozeducacao.com.br/curso/tecnico-em-desenvolvimento-de-sistemas/" target="_blank">
-<img align="center" alt="Proz" height="40" width="50" src="https://i.ibb.co/74XK2LK/download-removebg-preview.png"  target="_blank"></a>
+<img align="center" alt="Proz" height="40" width="50" src="https://i.ibb.co/74XK2LK/download-removebg-preview.png"></a>
+
 <h2 align="center">## Linguagens e Ferramentas</h2>
 
   <div style="display: inline_block; margin-right: 10px;" align="center">
