@@ -11,6 +11,11 @@
 - 🤝 Estou aberto a colaborações e adoro fazer parte de comunidades de desenvolvedores.
 - 📚 Atualmente estou cursando ensino técnico em Desenvolvimento de Sistemas na <a href="https://prozeducacao.com.br/curso/tecnico-em-desenvolvimento-de-sistemas/" target="_blank"><img align="center" alt="Proz" height="40" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/6ca5a73b-d11e-4986-8771-1d48d3f96e1e"></a>
 
+<a target="_blank" href="">
+  <img align="center" alt="Proz" height="40" width="50" a href="https://prozeducacao.com.br/curso/tecnico-em-desenvolvimento-de-sistemas/" src="">
+</a>
+
+
 
 <h2 align="center">## Linguagens e Ferramentas</h2>
 
