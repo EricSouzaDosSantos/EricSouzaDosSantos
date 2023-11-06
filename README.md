@@ -1,11 +1,14 @@
-# 👋 Olá, eu sou Eric Souza dos Santos.
+<h2 align="center">👋 Olá, eu sou Eric Souza dos Santos.</h2>
 
-## Sobre mim
-- 👨‍💻 Estudo programação desde janeiro de 2023.
+<h2 align="center">## Sobre mim</h2>
+
+- 👨‍💻 Iniciei meus estudos em programação a partir de janeiro de 2023.
 - 🐍 Comecei com Python, mas atualmente meu foco está no desenvolvimento Android com Java e Kotlin.
-- 📚 Estou cursando ensino técnico em Desenvolvimento de Sistemas na [Proz Educação](https://www.prozeducacao.com.br/).
+- 📚 Estou cursando ensino técnico em Desenvolvimento de Sistemas na <a href="https://www.prozeducacao.com.br/" target="_blank"><img align="center" alt="Proz" height="40" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/6ca5a73b-d11e-4986-8771-1d48d3f96e1e"></a>
 
-## Linguagens e Ferramentas
+
+<h2 align="center">## Linguagens e Ferramentas</h2>
+
   <div style="display: inline_block; margin-right: 10px;" align="center">
     <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Eric-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -22,24 +25,29 @@
     <img align="center" alt="Jetpack Compose" height="40" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/f4d47370-80f4-4dfd-9cbf-2420a006ecc0">
   </div>
 
- 
 
-## Estatísticas do meu GitHub
+
+<h2 align="center">## Estatísticas do meu GitHub</h2>
+
 <br>
 <div align="center" display="inline-block">
   <a href="https://github.com/mariakarolinesvg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricSouzaDosSantos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricSouzaDosSantos&layout=compact&langs_count=7&theme=react" />
-
-
 </div>
 <br>
 
 
-## Gráfico de Contribuição
-![Gráfico de Commits](https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos)
+<h2 align="center">## Gráfico de Contribuição</h2>
 
-## Redes Sociais e Contato
+<div align="center" display="inline-block">
+
+[![Gráfico de Commits](https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos)](https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos)
+
+</div>
+
+<h2 align="center">## Redes Sociais e Contato</h2>
+
 <div>
   <a href="https://www.linkedin.com/in/Eric-Souza-dos-Santos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
