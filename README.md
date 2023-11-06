@@ -22,7 +22,7 @@
     <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Eric-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Eric-Android" height="60" width="70" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif">
+    <img align="center" alt="Eric-Android" height="80" width="90" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif">
     <img align="center" alt="Eric-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Eric-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
     <img align="center" alt="Eric-Android Studio" height="35" width="40" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/dd7b18e8-631e-41d7-beb9-3ba27274cd41">
