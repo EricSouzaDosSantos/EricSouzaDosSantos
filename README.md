@@ -2,9 +2,14 @@
 
 <h2 align="center">## Sobre mim</h2>
 
-- 👨‍💻 Iniciei meus estudos em programação a partir de janeiro de 2023.
-- 🐍 Comecei com Python, mas atualmente meu foco está no desenvolvimento Android com Java e Kotlin.
-- 📚 Estou cursando ensino técnico em Desenvolvimento de Sistemas na <a href="https://www.prozeducacao.com.br/" target="_blank"><img align="center" alt="Proz" height="40" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/6ca5a73b-d11e-4986-8771-1d48d3f96e1e"></a>
+- 👨‍💻 Tenho 16 anos e sou apaixonado por programação.
+- 🌟 Comecei minha jornada de desenvolvimento há 10 meses, e desde então tenho explorado diversas tecnologias.
+- 🐍 Inicialmente, mergulhei no mundo da programação com Python, explorando suas capacidades versáteis.
+- ☁️ Também tenho interesse em serviços de nuvem e tenho conhecimentos básicos em Azure e Google Cloud.
+- 📱 Atualmente, estou focando meus esforços no desenvolvimento Android, estudando Java e Kotlin para criar aplicativos incríveis.
+- 🚀 Estou sempre buscando aprender e me desafiar em novos projetos e tecnologias.
+- 🤝 Estou aberto a colaborações e adoro fazer parte de comunidades de desenvolvedores.
+- 📚 Atualmente estou cursando ensino técnico em Desenvolvimento de Sistemas na <a href="https://www.prozeducacao.com.br/" target="_blank"><img align="center" alt="Proz" height="40" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/6ca5a73b-d11e-4986-8771-1d48d3f96e1e"></a>
 
 
 <h2 align="center">## Linguagens e Ferramentas</h2>
@@ -48,7 +53,8 @@
 
 <h2 align="center">## Redes Sociais e Contato</h2>
 
-<div>
+<div align="center" display="inline-block">
+
   <a href="https://www.linkedin.com/in/Eric-Souza-dos-Santos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
