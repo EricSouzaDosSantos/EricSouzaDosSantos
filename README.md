@@ -1,6 +1,7 @@
 <h2 align="center">👋 Olá, eu sou Eric Souza dos Santos.</h2>
 
-<h2 align="center">## Sobre mim</h2>
+<h2 align="center">##Um pouco sobre mim</h2>
+
 
 - 👨‍💻 Tenho 16 anos e sou apaixonado por programação.
 - 🌟 Comecei minha jornada de desenvolvimento há 10 meses, e desde então tenho explorado diversas tecnologias.
