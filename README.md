@@ -9,7 +9,7 @@
 - 📱 Atualmente, estou focando meus esforços no desenvolvimento Android, estudando Java e Kotlin para criar aplicativos incríveis.
 - 🚀 Estou sempre buscando aprender e me desafiar em novos projetos e tecnologias.
 - 🤝 Estou aberto a colaborações e adoro fazer parte de comunidades de desenvolvedores.
-- 📚 Atualmente estou cursando ensino técnico em Desenvolvimento de Sistemas na <a href="https://www.prozeducacao.com.br/" target="_blank"><img align="center" alt="Proz" height="40" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/6ca5a73b-d11e-4986-8771-1d48d3f96e1e"></a>
+- 📚 Atualmente estou cursando ensino técnico em Desenvolvimento de Sistemas na <a href="https://prozeducacao.com.br/curso/tecnico-em-desenvolvimento-de-sistemas/" target="_blank"><img align="center" alt="Proz" height="40" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/6ca5a73b-d11e-4986-8771-1d48d3f96e1e"></a>
 
 
 <h2 align="center">## Linguagens e Ferramentas</h2>
