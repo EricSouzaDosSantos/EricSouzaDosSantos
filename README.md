@@ -7,7 +7,7 @@
 - 🌟 Comecei minha jornada de desenvolvimento há 1 ano atrás, e desde então tenho explorado diversas tecnologias.
 - 🐍 Inicialmente, mergulhei no mundo da programação com Python, explorando suas capacidades versáteis.
 - 🍃 Atualmente, estou focando meus esforços no desenvolvimento Back-End, estudando Java com o Framework Spring para criar aplicações web incríveis.
-- 📱  Contudo também sou apto para desenvolver aplicações mobile para o sistema Android com kotlin e java.
+- 📱  Contudo também sou apto a desenvolver aplicações mobile para o sistema Android com kotlin e java.
 - ☁️ Também tenho interesse em serviços de nuvem e tenho conhecimentos básicos em Azure e Google Cloud.
 - 🚀 Estou sempre buscando aprender e me desafiar em novos projetos e tecnologias.
 - 🤝 Estou aberto a colaborações e adoro fazer parte de comunidades de desenvolvedores.
