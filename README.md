@@ -14,6 +14,14 @@
 - 📚 Atualmente estou cursando ensino técnico em Desenvolvimento de Sistemas na <a href="https://prozeducacao.com.br/curso/tecnico-em-desenvolvimento-de-sistemas/" target="_blank">
 <img align="center" alt="Proz" height="40" width="50" src="https://i.ibb.co/74XK2LK/download-removebg-preview.png"></a>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricSouzaDosSantos/EricSouzaDosSantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricSouzaDosSantos/EricSouzaDosSantos/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/EricSouzaDosSantos/EricSouzaDosSantos/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 <h2 align="center">Linguagens e Ferramentas</h2>
 
   <div style="display: inline_block; margin-right: 10px;" align="center">
