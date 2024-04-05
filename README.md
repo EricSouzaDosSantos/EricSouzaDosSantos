@@ -3,8 +3,8 @@
 <h2 align="center">Um pouco sobre mim</h2>
 
 
-- 👨‍💻 Tenho 16 anos e sou apaixonado por programação.
-- 🌟 Comecei minha jornada de desenvolvimento há 1 ano atrás, e desde então tenho explorado diversas tecnologias.
+- 👨‍💻 Tenho 17 anos e sou apaixonado por programação.
+- 🌟 Comecei minha jornada de desenvolvimento há pouco mais de 1 ano atrás, e desde então tenho explorado diversas tecnologias.
 - 🐍 Inicialmente, mergulhei no mundo da programação com Python, explorando suas capacidades versáteis.
 - 🍃 Atualmente, estou focando meus esforços no desenvolvimento Back-End, estudando Java com o Framework Spring para criar aplicações web incríveis.
 - 📱  Contudo também sou apto a desenvolver aplicações mobile para o sistema Android com kotlin e java.
