@@ -42,8 +42,6 @@
 
 
 
-<h2 align="center">Estatísticas do meu GitHub</h2>
-
 <br>
 <div align="center" display="inline-block">
   <a href="https://github.com/EricSouzaDosSantos">
