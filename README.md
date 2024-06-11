@@ -64,14 +64,6 @@
 </div>
 <br>
 
-<h2 align="center">Gráfico de Contribuição</h2>
-
-<div align="center">
-  <a href="https://github.com/EricSouzaDosSantos">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos" alt="Gráfico de Commits"/>
-  </a>
-</div>
-
 <h2 align="center">Redes Sociais e Contato</h2>
 
 <div align="center">
