@@ -7,16 +7,12 @@
     <ul>
       <li>👨‍💻 Tenho 17 anos e sou apaixonado por programação.</li>
       <li>🌟 Comecei minha jornada de desenvolvimento há pouco mais de 1 ano atrás, e desde então tenho explorado diversas tecnologias.</li>
-      <li>🐍 Inicialmente, mergulhei no mundo da programação com Python, explorando suas capacidades versáteis.</li>
       <li>🍃 Atualmente, estou focando meus esforços no desenvolvimento Back-End, estudando Java com o Framework Spring para criar aplicações web incríveis.</li>
       <li>📱 Contudo também sou apto a desenvolver aplicações mobile para o sistema Android com kotlin e java.</li>
-      <li>☁️ Também tenho interesse em serviços de nuvem e tenho conhecimentos básicos em Azure e Google Cloud.</li>
+      <li>☁️ Também tenho interesse em serviços de nuvem e tenho conhecimentos básicos em Azure, Google Cloud e AWS.</li>
       <li>🚀 Estou sempre buscando aprender e me desafiar em novos projetos e tecnologias.</li>
       <li>🤝 Estou aberto a colaborações e adoro fazer parte de comunidades de desenvolvedores.</li>
-      <li>📚 Atualmente estou cursando ensino técnico em Desenvolvimento de Sistemas na 
-        <a href="https://prozeducacao.com.br/curso/tecnico-em-desenvolvimento-de-sistemas/" target="_blank">
-          <img align="center" alt="Proz" height="40" width="50" src="https://i.ibb.co/74XK2LK/download-removebg-preview.png">
-        </a>
+      <li>📚 Atualmente estou cursando ensino técnico em Desenvolvimento de Sistemas no SENAI Anchieta
       </li>
     </ul>
   </div>
