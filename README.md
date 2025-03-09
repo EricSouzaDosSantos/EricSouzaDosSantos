@@ -1,19 +1,19 @@
-<h2 align="center">👋 Olá, eu sou Eric Souza dos Santos.</h2>
+<h2 align="center">👋 Olá, eu sou Eric Souza dos Santos</h2>
+
+<h2 align="center">Desenvolvedor Back-End | Java | Spring | AWS</h2>
 
 <h2 align="center">Um pouco sobre mim</h2>
 
 <div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; max-width: 100%;">
   <div style="flex: 1; min-width: 300px; padding: 10px;">
     <ul>
-      <li>👨‍💻 Tenho 17 anos e sou apaixonado por programação.</li>
-      <li>🌟 Comecei minha jornada de desenvolvimento há pouco mais de 1 ano atrás, e desde então tenho explorado diversas tecnologias.</li>
-      <li>🍃 Atualmente, estou focando meus esforços no desenvolvimento Back-End, estudando Java com o Framework Spring para criar aplicações web incríveis.</li>
-      <li>📱 Contudo também sou apto a desenvolver aplicações mobile para o sistema Android com kotlin e java.</li>
-      <li>☁️ Também tenho interesse em serviços de nuvem e tenho conhecimentos básicos em Azure, Google Cloud e AWS.</li>
-      <li>🚀 Estou sempre buscando aprender e me desafiar em novos projetos e tecnologias.</li>
-      <li>🤝 Estou aberto a colaborações e adoro fazer parte de comunidades de desenvolvedores.</li>
-      <li>📚 Atualmente estou cursando ensino técnico em Desenvolvimento de Sistemas no SENAI Anchieta
-      </li>
+      <li>Tenho 17 anos e sou apaixonado por desenvolvimento back-end, com foco em Java e Spring.</li>
+      <li>Comecei minha jornada há pouco mais de 2 anos e desde então tenho me dedicado a criar APIs robustas e escaláveis.</li>
+      <li>Atualmente, estou me especializando em <strong>Java com Spring</strong>, desenvolvendo aplicações back-end eficientes e de alta performance.</li>
+      <li>☁Tenho experiência prática com serviços de nuvem, especialmente <strong>AWS</strong>, onde trabalhei com <strong>S3, EC2 e VPC</strong> para deploy, armazenamento e gerenciamento de infraestrutura.</li>
+      <li>Estou sempre em busca de novos desafios para aprimorar minhas habilidades em back-end e cloud computing.</li>
+      <li>Adoro colaborar em projetos e participar de comunidades de desenvolvedores.</li>
+      <li>Atualmente, estou cursando o ensino técnico em Desenvolvimento de Sistemas no SENAI Anchieta.</li>
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px; padding: 10px;" align="center">
@@ -33,20 +33,15 @@
 
 <h2 align="center">Linguagens e Ferramentas</h2>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;" align="center">
-  <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Eric-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Eric-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Eric-XML" height="40" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/94ab766a-3b7c-428c-a025-07b6359960ce">
-  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eric-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Eric-Android" height="80" width="90" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif">
-  <img align="center" alt="Eric-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Eric-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Eric-Android Studio" height="35" width="40" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/dd7b18e8-631e-41d7-beb9-3ba27274cd41">
-  <img align="center" alt="API Rest" height="30" width="40" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/0c52e907-cf9d-4038-a71d-a9f05acc3393">
-  <img align="center" alt="Jetpack Compose" height="40" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/f4d47370-80f4-4dfd-9cbf-2420a006ecc0">
+<div style="display: flex; justify-content: space; flex-wrap: wrap; gap: 40px;" align="center">
+  <img align="center" alt="Eric-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Eric-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Eric-Docker" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <img align="center" alt="Eric-Postgres" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Eric-Angular" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+    <img align="center" alt="Eric-Angular" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Eric-git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="API Rest" height="50" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/0c52e907-cf9d-4038-a71d-a9f05acc3393">
 </div>
 
 <br>
