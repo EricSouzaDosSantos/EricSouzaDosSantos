@@ -7,13 +7,14 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; max-width: 100%;">
   <div style="flex: 1; min-width: 300px; padding: 10px;">
     <ul>
-      <li>Tenho 17 anos e sou apaixonado por desenvolvimento back-end, com foco em Java e Spring.</li>
+      <li>Tenho 18 anos e sou apaixonado por desenvolvimento back-end, com foco em Java e Spring.</li>
       <li>Comecei minha jornada há pouco mais de 2 anos e desde então tenho me dedicado a criar APIs robustas e escaláveis.</li>
-      <li>Atualmente, estou me especializando em <strong>Java com Spring</strong>, desenvolvendo aplicações back-end eficientes e de alta performance.</li>
-      <li>Tenho experiência prática com serviços de nuvem, especialmente <strong>AWS</strong>, onde trabalhei com <strong>S3, EC2 e VPC</strong> para deploy, armazenamento e gerenciamento de infraestrutura.</li>
+      <li>Atualmente, estou me especializando em <strong>Java com Spring e AWS</strong>, desenvolvendo aplicações back-end eficientes e de alta performance.</li>
+      <li>Possuo a certificação <strong>AWS Certified Cloud Practitioner</strong>, validando meus conhecimentos nos serviços e na nuvem da AWS.</li>
+      <li>Tenho experiência prática com serviços de nuvem(<strong>AZURE, AWS, GCP</strong>), especialmente <strong>AWS</strong>, onde trabalhei com <strong>S3, EC2 e VPC</strong> para deploy, armazenamento e gerenciamento de infraestrutura.</li>
       <li>Estou sempre em busca de novos desafios para aprimorar minhas habilidades em back-end e cloud computing.</li>
       <li>Adoro colaborar em projetos e participar de comunidades de desenvolvedores.</li>
-      <li>Atualmente, estou cursando o ensino técnico em Desenvolvimento de Sistemas no SENAI Anchieta.</li>
+      <li>Atualmente, estou cursando a graduação(Tecnólogo) em Análise e Desenvolvimento de Sistemas no centro universitário SENAC e ensino técnico em Desenvolvimento de Sistemas no SENAI Anchieta.</li>
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px; padding: 10px;" align="center">
