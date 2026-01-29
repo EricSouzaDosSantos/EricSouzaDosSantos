@@ -1,30 +1,66 @@
-<h2 align="center">👋 Olá, eu sou Eric Souza dos Santos</h2>
+<h1 align="center">Olá, eu sou Eric Souza</h1>
 
-<h2 align="center">Desenvolvedor Back-End | Java | Spring | AWS</h2>
+<h3 align="center">
+  Backend Developer | Java Specialist | AWS Certified Cloud Practitioner
+</h3>
 
-<h2 align="center">Um pouco sobre mim</h2>
+<div align="center">
+  <a href="https://www.credly.com/your-badge-url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
+  </a>
+</div>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; max-width: 100%;">
-  <div style="flex: 1; min-width: 300px; padding: 10px;">
-    <ul>
-      <li>Tenho 18 anos e sou apaixonado por desenvolvimento back-end, com foco em Java e Spring.</li>
-      <li>Comecei minha jornada há pouco mais de 2 anos e desde então tenho me dedicado a criar APIs robustas e escaláveis.</li>
-      <li>Atualmente, estou me especializando em <strong>Java com Spring e AWS</strong>, desenvolvendo aplicações back-end eficientes e de alta performance.</li>
-      <li>Possuo a certificação <strong>AWS Certified Cloud Practitioner</strong>, validando meus conhecimentos nos serviços e na nuvem da AWS.</li>
-      <li>Tenho experiência prática com serviços de nuvem(<strong>AZURE, AWS, GCP</strong>), especialmente <strong>AWS</strong>, onde trabalhei com <strong>S3, EC2 e VPC</strong> para deploy, armazenamento e gerenciamento de infraestrutura.</li>
-      <li>Estou sempre em busca de novos desafios para aprimorar minhas habilidades em back-end e cloud computing.</li>
-      <li>Adoro colaborar em projetos e participar de comunidades de desenvolvedores.</li>
-      <li>Atualmente, estou cursando a graduação(Tecnólogo) em Análise e Desenvolvimento de Sistemas no centro universitário SENAC e ensino técnico em Desenvolvimento de Sistemas no SENAI Anchieta.</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 300px; padding: 10px;" align="center">
-    <a href="https://github.com/EricSouzaDosSantos">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos" alt="Gráfico de Commits"/>
-    </a>
-  </div>
+<br/>
+<h3 align="left">Quem é o Eric?</h3>
+<p align="left">
+Sou aquele desenvolvedor que trocou as aulas de matemática e ciências pela lógica de programação. Escolhi o Back-end porque sou fascinado por organização e caminhos exatos — para mim, não existe sensação melhor do que ver um sistema complexo funcionando perfeitamente nos bastidores.
+</p>
+
+<p align="left">
+Minha relação com o código vai além de escrever funcionalidades: gosto de entender o <i>porquê</i> das coisas. Me preocupo com arquitetura, responsabilidade das camadas, clareza das regras de negócio e com a manutenção do sistema a longo prazo. Código limpo, previsível e bem estruturado não é só estética — é respeito por quem vai dar manutenção depois (inclusive eu mesmo).
+</p>
+
+<p align="left">
+Minha trajetória na tecnologia começou cedo lá em 2023, movido pela curiosidade. Comecei explorando python e serviços em nuvem, e só depois aos poucos fui consolidando meu foco em <b>Java e Spring</b>, participando de projetos reais, hackathons e aplicações completas — do back-end ao deploy. Cada projeto foi uma oportunidade de errar, aprender e refinar meu pensamento como desenvolvedor.
+</p>
+
+<p align="left">
+<b>Na SMH (Trabalho):</b> Sou movido a desafios e chá (sim, eu não tomo café!). Tenho uma "teimosia saudável": não sossego enquanto não resolvo o bug ou encontro a melhor solução lógica. Além disso, geralmente atuo como o <b>quebra-gelo</b> da equipe; sou brincalhão e acredito que um ambiente leve e comunicativo gera os melhores resultados.
+</p>
+
+<p align="left">
+No dia a dia profissional, gosto de assumir responsabilidade, entender o impacto do que estou desenvolvendo e colaborar ativamente com o time. Tenho facilidade em explicar ideias técnicas, discutir soluções e adaptar minha abordagem quando necessário — sempre buscando equilibrar qualidade técnica com entrega.
+</p>
+
+<p align="left">
+<b>No pessoal:</b> Busco estratégia e desafios o tempo todo. Seja jogando Xadrez, explorando mundos em Zelda e God of War (meus preferidos), tentando descobrir o culpado em filmes de investigação, ou buscando Hackathons para participar com meus amigos.
+</p>
+
+
+<br/>
+
+<br/>
+
+<h3 align="left">Minha Stack</h3>
+
+| **Back-end & Core** | **Cloud & DevOps** | **Databases** | **Front-end** | **Tools** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,maven" height="50" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" height="50" alt="Cloud" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="50" alt="Tools" /> | <img src="https://skillicons.dev/icons?i=angular,javascript" height="50" alt="Tools" /> | <img src="https://skillicons.dev/icons?i=git,postman" height="50" alt="Tools" /> |
+
+<br/>
+
+<div align="center">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EricSouzaDosSantos&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+<div align="center">
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricSouzaDosSantos/EricSouzaDosSantos/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricSouzaDosSantos/EricSouzaDosSantos/output/github-contribution-grid-snake.svg">
@@ -32,37 +68,13 @@
   </picture>
 </div>
 
-<h2 align="center">Linguagens e Ferramentas</h2>
-
-<div style="display: flex; justify-content: space; flex-wrap: wrap; gap: 40px;" align="center">
-  <img align="center" alt="Eric-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Eric-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="Eric-Docker" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-      <img align="center" alt="Eric-Postgres" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Eric-Angular" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-    <img align="center" alt="Eric-Angular" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Eric-git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="API Rest" height="50" width="50" src="https://github.com/EricSouzaDosSantos/EricSouzaDosSantos/assets/139002302/0c52e907-cf9d-4038-a71d-a9f05acc3393">
-</div>
-
-<br>
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/EricSouzaDosSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricSouzaDosSantos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/EricSouzaDosSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricSouzaDosSantos&layout=compact&langs_count=7&theme=react"/>
-  </a>
-</div>
-<br>
-
-<h2 align="center">Redes Sociais e Contato</h2>
+<br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Eric-Souza-dos-Santos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-eric" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
-  <a href="mailto:ericsouzadossantos28@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:ericsouzadossantos28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
   </a>
 </div>
