@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Eric Souza</h1>
 
 <h3 align="center">
-  Backend Developer | Java Specialist | AWS Certified Cloud Practitioner
+  Backend Developer | Java Developer | AWS Certified Cloud Practitioner
 </h3>
 
 <div align="center">
