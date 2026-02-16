@@ -13,11 +13,11 @@
 <br/>
 <h3 align="left">Quem é o Eric?</h3>
 <p align="left">
-Sou aquele desenvolvedor que trocou as aulas de matemática e ciências pela lógica de programação. Escolhi o Back-end porque sou fascinado por organização e caminhos exatos — para mim, não existe sensação melhor do que ver um sistema complexo funcionando perfeitamente nos bastidores.
+Sou desenvolvedor back-end apaixonado por lógica, organização e pelo que acontece nos bastidores de um sistema. Gosto de entender o porquê das coisas, pensar na arquitetura e construir soluções que sejam claras, previsíveis e fáceis de manter ao longo do tempo.
 </p>
 
 <p align="left">
-Minha relação com o código vai além de escrever funcionalidades: gosto de entender o <i>porquê</i> das coisas. Me preocupo com arquitetura, responsabilidade das camadas, clareza das regras de negócio e com a manutenção do sistema a longo prazo. Código limpo, previsível e bem estruturado não é só estética — é respeito por quem vai dar manutenção depois (inclusive eu mesmo).
+Comecei na tecnologia em 2023, explorando Python e computação em nuvem, até consolidar meu foco em Java e Spring. Desde então, venho participando de projetos reais, hackathons e aplicações completas, aprendendo na prática e evoluindo a cada desafio.
 </p>
 
 <p align="left">
@@ -25,7 +25,7 @@ Minha trajetória na tecnologia começou cedo lá em 2023, movido pela curiosida
 </p>
 
 <p align="left">
-<b>Na SMH (Trabalho):</b> Sou movido a desafios e chá (sim, eu não tomo café!). Tenho uma "teimosia saudável": não sossego enquanto não resolvo o bug ou encontro a melhor solução lógica. Além disso, geralmente atuo como o <b>quebra-gelo</b> da equipe; sou brincalhão e acredito que um ambiente leve e comunicativo gera os melhores resultados.
+Na SMH (Trabalho) Sou movido a desafios. Tenho facilidade para colaborar, explicar ideias técnicas e buscar soluções com responsabilidade e foco em qualidade. Além disso, geralmente atuo como o <b>quebra-gelo</b> da equipe; sou brincalhão e acredito que um ambiente leve e comunicativo gera os melhores resultados.
 </p>
 
 <p align="left">
@@ -33,7 +33,7 @@ No dia a dia profissional, gosto de assumir responsabilidade, entender o impacto
 </p>
 
 <p align="left">
-<b>No pessoal:</b> Busco estratégia e desafios o tempo todo. Seja jogando Xadrez, explorando mundos em Zelda e God of War (meus preferidos), tentando descobrir o culpado em filmes de investigação, ou buscando Hackathons para participar com meus amigos.
+<b>No pessoal:</b> Gosto de Xadrez, jogos que permitem explorar mundos e resolver desafios em aventuras, filmes/documentários de investigação.
 </p>
 
 
