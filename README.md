@@ -11,9 +11,9 @@
 </div>
 
 <br/>
-<h3 align="left">Quem é o Eric?</h3>
+<h3 align="left">Quem eu sou?</h3>
 <p align="left">
-Sou desenvolvedor back-end apaixonado por lógica, organização e pelo que acontece nos bastidores de um sistema. Gosto de entender o porquê das coisas, pensar na arquitetura e construir soluções que sejam claras, previsíveis e fáceis de manter ao longo do tempo.
+Sou um desenvolvedor back-end apaixonado por lógica, organização e pelo que acontece nos bastidores de um sistema. Gosto de entender o porquê das coisas, pensar na arquitetura e construir soluções que sejam claras, previsíveis e fáceis de manter ao longo do tempo.
 </p>
 
 <p align="left">
