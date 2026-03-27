@@ -4,6 +4,12 @@
   Backend Developer | Java Developer | AWS Certified Cloud Practitioner
 </h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
 <div align="center">
   <a href="https://www.credly.com/your-badge-url" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
